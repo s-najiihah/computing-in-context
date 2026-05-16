@@ -2,7 +2,10 @@ format: jb-book
 root: index
 chapters:
   - file: nyc_building_insights
-  - file: lecture_16_example
+    title: NYC Building Insights
   - file: project_1
+    title: KTMB Ridership Trends, 2020 to 2025
   - file: project_2
+    title: GDP and CO2 Emissions Per Capita, 2020 to 2025
   - file: project_3
+    title: McDonald's Locations and Global Obesity Rates
